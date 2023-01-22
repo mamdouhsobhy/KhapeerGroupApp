@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KhapeerGroup</string>
+    <string name="check_internet_connections">قم بفحص اتصالك بالانترنت !</string>
+    <string name="employee_salary">راتب الموظف</string>
+    <string name="rotation">180</string>
+    <string name="total_salary">اجمالي الراتب :</string>
+    <string name="entitlements">الاستحقاقات</string>
+    <string name="deducation">الاستقطاعات</string>
+    <string name="num">م</string>
+    <string name="clause">البند</string>
+    <string name="value">القيمه</string>
+    <string name="basic_salary">مرتب اساسي</string>
+    <string name="natural_work">طبيعه عمل</string>
+    <string name="other_deducation">استقطاعات اخري</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="enter_phone">ادخل رقم الهاتف</string>
+    <string name="password">كلمه المرور</string>
+    <string name="enter_password">ادخل كلمه المرور</string>
+</resources>
